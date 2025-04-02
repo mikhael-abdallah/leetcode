@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/product-of-array-except-self
 
+pub struct Solution {}
 impl Solution {
   pub fn product_except_self(nums: Vec<i32>) -> Vec<i32> {
     // (1, x-1) * (x+1, n)
@@ -20,4 +21,10 @@ impl Solution {
 
     l
   }
+}
+
+fn main() {
+  let nums = vec![1, 2, 3, 4];
+  let result = Solution::product_except_self(nums);
+  println!("{:?}", result);
 }

@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/rotate-array/description/
 
+pub struct Solution {}
 impl Solution {
   pub fn rotate(nums: &mut Vec<i32>, k: i32) {
       let len = nums.len();
@@ -38,4 +39,11 @@ impl Solution {
           }
       }
   }
+}
+
+fn main() {
+    let mut nums = vec![1, 2, 3, 4, 5, 6, 7];
+    let k = 3;
+    Solution::rotate(&mut nums, k);
+    println!("{:?}", nums);
 }

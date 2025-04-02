@@ -1,0 +1,37 @@
+[package]
+name = "leetcode"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "product-of-array-except-self-2"
+path = "./Arrays/product-of-array-except-self/product-of-array-except-self-2.rs"
+
+[[bin]]
+name = "product-of-array-except-self"
+path = "./Arrays/product-of-array-except-self/product-of-array-except-self.rs"
+
+[[bin]]
+name = "best-time-to-buy-and-sell-stock-ii"
+path = "./Arrays/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.rs"
+
+[[bin]]
+name = "best-time-to-buy-and-sell-stock"
+path = "./Arrays/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.rs"
+
+[[bin]]
+name = "majority-element-3"
+path = "./Arrays/majority-element/majority-element-3.rs"
+
+[[bin]]
+name = "move-zeroes"
+path = "./Arrays/move-zeroes/move-zeroes.rs"
+
+[[bin]]
+name = "rotate-array"
+path = "./Arrays/rotate-array/rotate-array.rs"
+
+[[bin]]
+name = "remove-duplicates-from-sorted-array"
+path = "./Arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.rs"
+
