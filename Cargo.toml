@@ -35,3 +35,7 @@ path = "./Arrays/rotate-array/rotate-array.rs"
 name = "remove-duplicates-from-sorted-array"
 path = "./Arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.rs"
 
+[[bin]]
+name = "number-of-zero-filled-subarrays"
+path = "./Arrays/number-of-zero-filled-subarrays/number-of-zero-filled-subarrays.rs"
+
