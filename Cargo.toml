@@ -20,6 +20,10 @@ name = "best-time-to-buy-and-sell-stock"
 path = "./Arrays/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.rs"
 
 [[bin]]
+name = "increasing-triplet-subsequence"
+path = "./Arrays/increasing-triplet-subsequence/increasing-triplet-subsequence.rs"
+
+[[bin]]
 name = "majority-element-3"
 path = "./Arrays/majority-element/majority-element-3.rs"
 
