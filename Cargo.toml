@@ -72,6 +72,10 @@ name = "zigzag-conversion"
 path = "./Strings/zigzag-conversion/zigzag-conversion.rs"
 
 [[bin]]
+name = "counting-bits"
+path = "./Bit Manipulation/counting-bits/counting-bits.rs"
+
+[[bin]]
 name = "single-number"
 path = "./Bit Manipulation/single-number/single-number.rs"
 
