@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2024"
 
 [[bin]]
+name = "first-missing-positive"
+path = "./Arrays/first-missing-positive/first-missing-positive.rs"
+
+[[bin]]
 name = "product-of-array-except-self-2"
 path = "./Arrays/product-of-array-except-self/product-of-array-except-self-2.rs"
 
@@ -42,4 +46,36 @@ path = "./Arrays/remove-duplicates-from-sorted-array/remove-duplicates-from-sort
 [[bin]]
 name = "number-of-zero-filled-subarrays"
 path = "./Arrays/number-of-zero-filled-subarrays/number-of-zero-filled-subarrays.rs"
+
+[[bin]]
+name = "longest-common-prefix"
+path = "./Strings/longest-common-prefix/longest-common-prefix.rs"
+
+[[bin]]
+name = "is-subsequence"
+path = "./Strings/is-subsequence/is-subsequence.rs"
+
+[[bin]]
+name = "valid-palindrome"
+path = "./Strings/valid-palindrome/valid-palindrome.rs"
+
+[[bin]]
+name = "guess-the-word"
+path = "./Strings/guess-the-word/guess-the-word.rs"
+
+[[bin]]
+name = "reverse-words-in-a-string"
+path = "./Strings/reverse-words-in-a-string/reverse-words-in-a-string.rs"
+
+[[bin]]
+name = "zigzag-conversion"
+path = "./Strings/zigzag-conversion/zigzag-conversion.rs"
+
+[[bin]]
+name = "single-number"
+path = "./Bit Manipulation/single-number/single-number.rs"
+
+[[bin]]
+name = "number-of-1-bits"
+path = "./Bit Manipulation/number-of-1-bits/number-of-1-bits.rs"
 
