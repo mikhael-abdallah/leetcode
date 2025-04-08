@@ -76,8 +76,16 @@ name = "counting-bits"
 path = "./Bit Manipulation/counting-bits/counting-bits.rs"
 
 [[bin]]
+name = "reverse-bits"
+path = "./Bit Manipulation/reverse-bits/reverse-bits.rs"
+
+[[bin]]
 name = "single-number"
 path = "./Bit Manipulation/single-number/single-number.rs"
+
+[[bin]]
+name = "bitwise-and-of-numbers-range"
+path = "./Bit Manipulation/bitwise-and-of-numbers-range/bitwise-and-of-numbers-range.rs"
 
 [[bin]]
 name = "number-of-1-bits"
