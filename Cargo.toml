@@ -91,3 +91,7 @@ path = "./Bit Manipulation/bitwise-and-of-numbers-range/bitwise-and-of-numbers-r
 name = "number-of-1-bits"
 path = "./Bit Manipulation/number-of-1-bits/number-of-1-bits.rs"
 
+[[bin]]
+name = "single-number-iii"
+path = "./Bit Manipulation/single-number-iii/single-number-iii.rs"
+
